@@ -1,0 +1,19 @@
+{
+  "name": "meteor-stubs",
+  "description": "Stubs for unit testing meteor",
+  "authors": ["Tyson Cadenhead"],
+  "keywords": [
+    "meteor", "testing", "mocha", "qunit"
+  ],
+  "version": "0.0.1",
+  "homepage": "https://github.com/tysoncadenhead/meteor-stubs",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tysoncadenhead/meteor-stubs.git"
+  },
+  "main": "./main.js",
+  "license": "MIT",
+  "scripts": {
+    "test": ""
+  }
+}
